@@ -1,4 +1,5 @@
 # hospital-management-system
+Made by group of 3 people
 # 1. Introduction:
 The Hospital Management System is a comprehensive software solution designed to streamline and optimize various aspects of hospital operations, ranging from patient management to doctor appointments and emergency services. Leveraging data structures and algorithms and OOP concepts, this project aims to enhance the efficiency and functionality of the hospital's day-to-day activities.
 # 2. Key Features:
